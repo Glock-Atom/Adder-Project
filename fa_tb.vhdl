@@ -2,7 +2,7 @@
 -- Project: Volladdierer
 -----------------------------------------------------------------
 -- File:   fa_tb.vhdl 
--- Author: Hamza Tekin
+-- Author: Glock-Atom
 -- Date:   November 3, 2021
 -----------------------------------------------------------------
 -- Testbench for fa.vhdl
