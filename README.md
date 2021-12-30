@@ -1,1 +1,3 @@
-# half-adder
+# Half-Adder
+
+## VHDL Code for a Halfadder
