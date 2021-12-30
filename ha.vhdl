@@ -2,7 +2,7 @@
 -- Project: Halbaddierer
 -----------------------------------------------------------------
 -- File:   ha.vhdl 
--- Author: Hamza Tekin
+-- Author: Glock-Atom
 -- Date:   October 13, 2021
 -----------------------------------------------------------------
 -- half-adder
