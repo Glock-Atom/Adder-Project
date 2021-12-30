@@ -2,7 +2,7 @@
 -- Project: Addierer
 -----------------------------------------------------------------
 -- File:   adder4.vhdl 
--- Author: Hamza Tekin
+-- Author: Glock-Atom
 -- Date:   November 10, 2021
 -----------------------------------------------------------------
 -- 4-Bit Addierer
