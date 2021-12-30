@@ -1,3 +1,3 @@
-# Half-Adder
+# VHDL Adder
 
-## VHDL Code for a Halfadder
+A basic VHDL Adder Project with half adder, fulladder and adder4
