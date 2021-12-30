@@ -2,7 +2,7 @@
 -- Project: Volladdierer
 -----------------------------------------------------------------
 -- File:   fa.vhdl 
--- Author: Hamza Tekin
+-- Author: Glock-Atom
 -- Date:   October 13, 2021
 -----------------------------------------------------------------
 -- full-adder
